@@ -1,12 +1,29 @@
-## Hi there 👋
+# 全女程序员 👩‍💻
 
-<!--
+以女性程序员为主导的开源社区，欢迎所有支持技术多元化的开发者加入。
 
-**Here are some ideas to get you started:**
+## 🌟 社区特色
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- **女性主导**：核心成员以女性开发者为主
+- **全员欢迎**：尊重并欢迎所有性别认同的贡献者
+- **平等协作**：每个人的技术贡献都同样重要
+
+## 🚀 参与方式
+
+1. 关注组织动态
+2. 在讨论区分享想法
+3. 参与项目贡献
+4. 提出技术建议
+
+## 📋 当前状态
+
+组织刚刚成立，期待你的加入一起：
+- 创建首个开源项目
+- 完善技术文档
+- 建设开发者社区
+
+---
+
+**一起打造包容多元的技术家园！** 🌈
+
+*女性主导 • 全员欢迎 • 共同成长*
